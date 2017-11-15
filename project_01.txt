@@ -1,4 +1,0 @@
-This is my first git test
-Blah
-test num 2
-WAB Test at 10:17am on 11/15/2017
